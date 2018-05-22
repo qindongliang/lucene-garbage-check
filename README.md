@@ -81,7 +81,28 @@ ok，关键词有了，下面看下业务规则 ， 规定如下：
 ##后续
 本项目只是给出了一个根据关键词识别的例子，这个项目拿到你们本地也许并不能立刻使用，但是相似的业务，但是它提供了一种思路，大部分情况下，改动少许代码，即可适应大部分类似的业务。
 
-### QQ搜索技术交流群：206247899   公众号：我是攻城师（woshigcs） 如有问题，可在后台留言咨询
-### [我的iteye博客](http://qindongliang.iteye.com/)  个人QQ：951514291
+## 博客相关
+
+（1）[微信公众号（woshigcs）：同步更新](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
+
+（2）[个人站点(2018之后，同步更新）](http://8090nixi.com/) 
+
+（3）[腾讯云社区，自动同步公众号文章](<http://qindongliang.iteye.com/>)
+
+（4）[csdn ： (暂时同步更新)](https://blog.csdn.net/u010454030)
+
+（5）[iteye（2018.05月之前所有的文章，之后弃用）](<http://qindongliang.iteye.com/>)  
+
+
+
+
+
+
+## 我的公众号(woshigcs)
+
+有问题可关注我的公众号留言咨询
+
+![image](https://github.com/qindongliang/answer_sheet_scan/blob/master/imgs/gcs.jpg)
+
 
 
